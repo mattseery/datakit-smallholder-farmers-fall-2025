@@ -10,7 +10,7 @@ This project explores how smallholder farmers discuss financial topics such as m
 
 ## Key Findings
 
-### Only 7.7% of all farmer questions are financial — and most of them center on one issue: market price transparency.
+### Key Finding 1: Only 7.7% of all farmer questions are financial — and most of them center on one issue: market price transparency.
 ![Key Finding 1](https://github.com/PreciousEnahoro/datakit-smallholder-farmers-fall-2025/blob/main/Challenge%205_%20Financial%20Inclusion/Precious%20Enahoro/key-finding-vizzes/Key%20Finding%201.png)
 
 Although fewer than 1 in 10 farmer questions are financial in nature, the majority of those inquiries focus on market price discovery and market access. Farmers consistently ask:
@@ -29,12 +29,21 @@ Producers Direct should:
 3. Develop automated price-insight messages, e.g., price drops, best-selling locations, or price anomalies.
 4. Include price trend visualizations or weekly summaries to reduce repeated questions.
 
-### Finding 2: [Title]
-Description of the finding, supported by data and visualizations.
+### Finding 2: Financial questions rise during major farming cash-flow cycles—before planting (April) and during harvest/selling periods (July–Aug, Nov)
+
+Farmers' financial questions follow strong seasonal patterns:
+- Jan–Feb & April: spikes in startup capital, loan access, investment evaluation, affordability concerns — farmers preparing for planting.
+- July–August: largest spike in market price questions, driven by major harvest and selling season.
+- November: a smaller second peak tied to the short-rains harvest and end-of-year financial pressure.
 
 **Implications for Producers Direct:**
-- How this finding can be used
-- What actions it suggests
+
+1. Time financial products to farming cycles:
+   - Jan–Apr: input loans + cost-saving tips
+   - Jul–Aug: market-price tools + selling support
+   - Nov: repayment flexibility + savings nudges
+
+2. Prioritize price-discovery features during harvest, since this dominates financial questions.
 
 ### Finding 3: [Title]
 Description of the finding, supported by data and visualizations.
